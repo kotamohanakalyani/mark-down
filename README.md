@@ -23,7 +23,5 @@ __*ece*__
 2. eee
   1. edharani
   2. edivya
-3.hjghj
-  5.abb
-  gggmgb
-  dfgfdg
+4. gggmgb
+ 5. dfgfdg

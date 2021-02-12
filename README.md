@@ -40,5 +40,10 @@ __*ece*__
 print("hello")
 ```
 ### task insert a code of hello in c
-printf("hello world")
+# include <stdio.h>
+int main() {
+printf("hello world");
+return 0;
+}
+
     

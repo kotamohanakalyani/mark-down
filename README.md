@@ -30,8 +30,8 @@ __*ece*__
 6.hbghgg
 ### unorderd list
 - ece
-     *ecea
-     *eceb
+     *.ecea
+     *.eceb
 -eee
       +karri
       +potti

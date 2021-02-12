@@ -53,5 +53,5 @@ return 0;
  - gmail link
  [divya](rajarapudivya2000@gmail.com)
 ## inserting videos
-.[![video].(https://www.youtube.com/.jpg).]
+[![video].(https://www.youtube.com/.jpg)]
 (https://www.youtube.com/watch?v=nAMNTR6rkRg)

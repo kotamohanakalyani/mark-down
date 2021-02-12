@@ -36,8 +36,8 @@ __*ece*__
       +karri
       +potti
 ### code 
-`python
+```python
 print("hello")
-`
+```
     
     

@@ -48,4 +48,7 @@ return 0;
 }
 ### inserting urls
 [markdown  ](https://github.com/kotamohanakalyani/mark-down/edit/main/README.md)
-    
+ - college web site link
+ [kits](kits.com)
+ - gmail link
+ [divya](rajarapudivya2000@gmail.com)

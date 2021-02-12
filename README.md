@@ -41,7 +41,8 @@ print("hello")
 ```
 ### task insert a code of hello in c
 # include <stdio.h>
-int main() {
+int main() 
+{
 printf("hello world");
 return 0;
 }
